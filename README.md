@@ -1,19 +1,13 @@
 <div align="center">
   
   ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/grilli)
-  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/grilli?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/grilli?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-  [![YouTube Video Views](https://img.shields.io/youtube/views/CjVGp5kGHxA?style=social)](https://youtu.be/CjVGp5kGHxA)
-
-  <br />
   <br />
 
   <h2 align="center">Priya's kitchen - Restaurant Website</h2>
 
-  Grilli is a fully responsive restaurant website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
+Welcome to the official repository of **Priya’s Kitchen**, a modern, elegant, and user-friendly restaurant website designed to showcase the rich taste and story behind every dish we serve.
 
-  <a href="https://codewithsadee.github.io/grilli/"><strong>➥ Live Demo</strong></a>
+  <a href="https://priyasharma08.github.io/Restraunt-Website/"><strong>➥ Click Here to see Live Demo</strong></a>
 
 </div>
 
@@ -23,7 +17,19 @@
 
 ![Grilli Desktop Demo](./readme-images/desktop.png "Desktop Demo")
 
-### Prerequisites
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend**: HTML5, CSS3, JavaScript  
+- **Frameworks (if used)**: Bootstrap / TailwindCSS *(optional)*  
+- **Icons & Images**: Font Awesome, Custom SVGs, Transparent PNGs  
+- **Typography**: Google Fonts  
+- **Deployment**: GitHub Pages
+
+---
+
+## Prerequisites
 
 Before you begin, ensure you have met the following requirements:
 
@@ -31,22 +37,22 @@ Before you begin, ensure you have met the following requirements:
 
 ### Run Locally
 
-To run **Grilli** locally, run this command on your git bash:
+To run **Priya's Kitchen Website** locally, run this command on your git bash:
 
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/grilli.git
+sudo git clone https://PriyaSharma08/Restraunt-Website.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/grilli.git
+git clone https://PriyaSharma08/Restraunt-Website.git
 ```
 
 ### Contact
 
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+If you want to contact with me you can reach me at [Linkedin](www.linkedin.com/in/priyasharma08).
 
 
