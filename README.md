@@ -21,8 +21,7 @@ Welcome to the official repository of **Priya’s Kitchen**, a modern, elegant, 
 
 ## 🛠️ Tech Stack
 
-- **Frontend**: HTML5, CSS3, JavaScript  
-- **Frameworks (if used)**: Bootstrap / TailwindCSS *(optional)*  
+- **Frontend**: HTML5, CSS3, JavaScript   
 - **Icons & Images**: Font Awesome, Custom SVGs, Transparent PNGs  
 - **Typography**: Google Fonts  
 - **Deployment**: GitHub Pages
